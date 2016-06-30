@@ -22,3 +22,9 @@ build/
 _yardoc
 doc/
 .idea/
+
+vendor/
+
+swagger2slate.phar
+
+swagger2slate.phar
